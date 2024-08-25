@@ -1,0 +1,15 @@
+C:\Users\hareta_forte\source\repos\LeetCodeExercises\LeetCodeExercises\bin\Debug\net6.0\LeetCodeExercises.exe
+C:\Users\hareta_forte\source\repos\LeetCodeExercises\LeetCodeExercises\bin\Debug\net6.0\LeetCodeExercises.deps.json
+C:\Users\hareta_forte\source\repos\LeetCodeExercises\LeetCodeExercises\bin\Debug\net6.0\LeetCodeExercises.runtimeconfig.json
+C:\Users\hareta_forte\source\repos\LeetCodeExercises\LeetCodeExercises\bin\Debug\net6.0\LeetCodeExercises.dll
+C:\Users\hareta_forte\source\repos\LeetCodeExercises\LeetCodeExercises\bin\Debug\net6.0\LeetCodeExercises.pdb
+C:\Users\hareta_forte\source\repos\LeetCodeExercises\LeetCodeExercises\obj\Debug\net6.0\LeetCodeExercises.csproj.AssemblyReference.cache
+C:\Users\hareta_forte\source\repos\LeetCodeExercises\LeetCodeExercises\obj\Debug\net6.0\LeetCodeExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hareta_forte\source\repos\LeetCodeExercises\LeetCodeExercises\obj\Debug\net6.0\LeetCodeExercises.AssemblyInfoInputs.cache
+C:\Users\hareta_forte\source\repos\LeetCodeExercises\LeetCodeExercises\obj\Debug\net6.0\LeetCodeExercises.AssemblyInfo.cs
+C:\Users\hareta_forte\source\repos\LeetCodeExercises\LeetCodeExercises\obj\Debug\net6.0\LeetCodeExercises.csproj.CoreCompileInputs.cache
+C:\Users\hareta_forte\source\repos\LeetCodeExercises\LeetCodeExercises\obj\Debug\net6.0\LeetCodeExercises.dll
+C:\Users\hareta_forte\source\repos\LeetCodeExercises\LeetCodeExercises\obj\Debug\net6.0\refint\LeetCodeExercises.dll
+C:\Users\hareta_forte\source\repos\LeetCodeExercises\LeetCodeExercises\obj\Debug\net6.0\LeetCodeExercises.pdb
+C:\Users\hareta_forte\source\repos\LeetCodeExercises\LeetCodeExercises\obj\Debug\net6.0\LeetCodeExercises.genruntimeconfig.cache
+C:\Users\hareta_forte\source\repos\LeetCodeExercises\LeetCodeExercises\obj\Debug\net6.0\ref\LeetCodeExercises.dll
