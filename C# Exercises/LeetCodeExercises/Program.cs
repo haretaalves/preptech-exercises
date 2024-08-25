@@ -1,4 +1,6 @@
-﻿class Program
+﻿using LinkedListsExercises;
+
+class Program
 {
     static void Main()
     {
@@ -14,6 +16,11 @@
 
         var rabbitTurtleApproach = new MiddleOfLinkedListRabbitTurtleApproach();
         rabbitTurtleApproach.Main();
+
+        Console.WriteLine("-------");
+
+        var swapNodes = new SwapNodes();
+        swapNodes.Main();
 
     }
 }

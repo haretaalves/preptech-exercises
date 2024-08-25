@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\hareta_forte\\Desktop\\Ada Course\\preptech-exercises\\C# Exercises\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D4FD602F-274E-478D-9FE7-9BCEEB8B41DA}|LeetCodeExercises\\LinkedListsExercises.csproj|c:\\users\\hareta_forte\\desktop\\ada course\\preptech-exercises\\c# exercises\\leetcodeexercises\\middleoflinkedlistrabbitturtleapproach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4FD602F-274E-478D-9FE7-9BCEEB8B41DA}|LeetCodeExercises\\LinkedListsExercises.csproj|solutionrelative:leetcodeexercises\\middleoflinkedlistrabbitturtleapproach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4FD602F-274E-478D-9FE7-9BCEEB8B41DA}|LeetCodeExercises\\LinkedListsExercises.csproj|c:\\users\\hareta_forte\\desktop\\ada course\\preptech-exercises\\c# exercises\\leetcodeexercises\\linkedlistmainoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4FD602F-274E-478D-9FE7-9BCEEB8B41DA}|LeetCodeExercises\\LinkedListsExercises.csproj|solutionrelative:leetcodeexercises\\linkedlistmainoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D4FD602F-274E-478D-9FE7-9BCEEB8B41DA}|LeetCodeExercises\\LinkedListsExercises.csproj|c:\\users\\hareta_forte\\desktop\\ada course\\preptech-exercises\\c# exercises\\leetcodeexercises\\swapnodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4FD602F-274E-478D-9FE7-9BCEEB8B41DA}|LeetCodeExercises\\LinkedListsExercises.csproj|solutionrelative:leetcodeexercises\\swapnodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D4FD602F-274E-478D-9FE7-9BCEEB8B41DA}|LeetCodeExercises\\LinkedListsExercises.csproj|c:\\users\\hareta_forte\\desktop\\ada course\\preptech-exercises\\c# exercises\\leetcodeexercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4FD602F-274E-478D-9FE7-9BCEEB8B41DA}|LeetCodeExercises\\LinkedListsExercises.csproj|solutionrelative:leetcodeexercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4FD602F-274E-478D-9FE7-9BCEEB8B41DA}|LeetCodeExercises\\LinkedListsExercises.csproj|c:\\users\\hareta_forte\\desktop\\ada course\\preptech-exercises\\c# exercises\\leetcodeexercises\\middleoflinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4FD602F-274E-478D-9FE7-9BCEEB8B41DA}|LeetCodeExercises\\LinkedListsExercises.csproj|solutionrelative:leetcodeexercises\\middleoflinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LinkedListMainOperations.cs",
-              "DocumentMoniker": "C:\\Users\\hareta_forte\\Desktop\\Ada Course\\preptech-exercises\\C# Exercises\\LeetCodeExercises\\LinkedListMainOperations.cs",
-              "RelativeDocumentMoniker": "LeetCodeExercises\\LinkedListMainOperations.cs",
-              "ToolTip": "C:\\Users\\hareta_forte\\Desktop\\Ada Course\\preptech-exercises\\C# Exercises\\LeetCodeExercises\\LinkedListMainOperations.cs",
-              "RelativeToolTip": "LeetCodeExercises\\LinkedListMainOperations.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwCwAAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T20:56:58.819Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MiddleOfLinkedListRabbitTurtleApproach.cs",
-              "DocumentMoniker": "C:\\Users\\hareta_forte\\Desktop\\Ada Course\\preptech-exercises\\C# Exercises\\LeetCodeExercises\\MiddleOfLinkedListRabbitTurtleApproach.cs",
-              "RelativeDocumentMoniker": "LeetCodeExercises\\MiddleOfLinkedListRabbitTurtleApproach.cs",
-              "ToolTip": "C:\\Users\\hareta_forte\\Desktop\\Ada Course\\preptech-exercises\\C# Exercises\\LeetCodeExercises\\MiddleOfLinkedListRabbitTurtleApproach.cs",
-              "RelativeToolTip": "LeetCodeExercises\\MiddleOfLinkedListRabbitTurtleApproach.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Title": "SwapNodes.cs",
+              "DocumentMoniker": "C:\\Users\\hareta_forte\\Desktop\\Ada Course\\preptech-exercises\\C# Exercises\\LeetCodeExercises\\SwapNodes.cs",
+              "RelativeDocumentMoniker": "LeetCodeExercises\\SwapNodes.cs",
+              "ToolTip": "C:\\Users\\hareta_forte\\Desktop\\Ada Course\\preptech-exercises\\C# Exercises\\LeetCodeExercises\\SwapNodes.cs",
+              "RelativeToolTip": "LeetCodeExercises\\SwapNodes.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwDAAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T20:27:35.475Z",
+              "WhenOpened": "2024-08-25T22:36:05.59Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MiddleOfLinkedList.cs",
-              "DocumentMoniker": "C:\\Users\\hareta_forte\\Desktop\\Ada Course\\preptech-exercises\\C# Exercises\\LeetCodeExercises\\MiddleOfLinkedList.cs",
-              "RelativeDocumentMoniker": "LeetCodeExercises\\MiddleOfLinkedList.cs",
-              "ToolTip": "C:\\Users\\hareta_forte\\Desktop\\Ada Course\\preptech-exercises\\C# Exercises\\LeetCodeExercises\\MiddleOfLinkedList.cs",
-              "RelativeToolTip": "LeetCodeExercises\\MiddleOfLinkedList.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAwBUAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T20:24:40.934Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hareta_forte\\Desktop\\Ada Course\\preptech-exercises\\C# Exercises\\LeetCodeExercises\\Program.cs",
               "RelativeDocumentMoniker": "LeetCodeExercises\\Program.cs",
               "ToolTip": "C:\\Users\\hareta_forte\\Desktop\\Ada Course\\preptech-exercises\\C# Exercises\\LeetCodeExercises\\Program.cs",
               "RelativeToolTip": "LeetCodeExercises\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-25T18:20:12.2Z",
               "EditorCaption": ""

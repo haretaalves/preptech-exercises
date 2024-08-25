@@ -1,50 +1,53 @@
-﻿class LinkedListMainOperations
+﻿namespace LinkedListsExercises
 {
-    public LinkedListMainOperations()
-    { }
-    public void Main()
+    class LinkedListMainOperations
     {
-        var linkedList = new SingleLinkedList();
+        public LinkedListMainOperations()
+        { }
+        public void Main()
+        {
+            var linkedList = new SingleLinkedList();
 
-        //Testing insert operations
-        linkedList.insertBegin(1);
-        linkedList.insertBegin(2);
-        linkedList.insertBegin(3);
+            //Testing insert operations
+            linkedList.insertBegin(1);
+            linkedList.insertBegin(2);
+            linkedList.insertBegin(3);
 
-        linkedList.insertEnd(4);
+            linkedList.insertEnd(4);
 
-        linkedList.insertAfterPosition(5, 2);
+            linkedList.insertAfterPosition(5, 2);
 
-        linkedList.printList();
+            linkedList.printList();
 
-        Console.WriteLine("-------");
+            Console.WriteLine("-------");
 
-        //Testing remove operations
+            //Testing remove operations
 
-        linkedList.removeBegin();
-        linkedList.removeEnd();
+            linkedList.removeBegin();
+            linkedList.removeEnd();
 
-        linkedList.printList();
-        Console.WriteLine("-------");
+            linkedList.printList();
+            Console.WriteLine("-------");
 
 
-        linkedList.insertEnd(6);
-        linkedList.printList();
-        Console.WriteLine("-------");
+            linkedList.insertEnd(6);
+            linkedList.printList();
+            Console.WriteLine("-------");
 
-        linkedList.removeAtPosition(2);
+            linkedList.removeAtPosition(2);
 
-        linkedList.printList();
+            linkedList.printList();
 
-        //Testing search operation
-        linkedList.find(6);
-        linkedList.find(8);
+            //Testing search operation
+            linkedList.find(6);
+            linkedList.find(8);
 
-        //Testing revert operation
-        linkedList.revert();
-        Console.WriteLine($"Head of linked list reverted is: {linkedList.head.data}");
-        
-        linkedList.printList();
+            //Testing revert operation
+            linkedList.revert();
+            Console.WriteLine($"Head of linked list reverted is: {linkedList.head.data}");
+
+            linkedList.printList();
+        }
     }
 }
 
