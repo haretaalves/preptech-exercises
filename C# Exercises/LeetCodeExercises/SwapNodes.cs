@@ -9,25 +9,25 @@
             var linkedList = new SingleLinkedList();
 
             //Testing insert operations
-            linkedList.insertBegin(3);
-            linkedList.insertEnd(4);
-            linkedList.insertEnd(1);
-            linkedList.insertEnd(5);
-            linkedList.insertEnd(7);
+            linkedList.InsertBegin(3);
+            linkedList.InsertEnd(4);
+            linkedList.InsertEnd(1);
+            linkedList.InsertEnd(5);
+            linkedList.InsertEnd(7);
 
-            linkedList.printList();
+            linkedList.PrintList();
 
             Console.WriteLine("-------");
 
             var result = SwapNodesLinkedList(linkedList, 2);
             if (result != null) 
-                result.printList();
+                result.PrintList();
 
             Console.WriteLine("-------");
 
             var resultInPairs = SwapNodesInPairs(linkedList);
             if (resultInPairs != null)
-                resultInPairs.printList();
+                resultInPairs.PrintList();
 
         }
 

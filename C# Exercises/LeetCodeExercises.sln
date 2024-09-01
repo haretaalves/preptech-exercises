@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32602.215
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedListsExercises", "LeetCodeExercises\LinkedListsExercises.csproj", "{D4FD602F-274E-478D-9FE7-9BCEEB8B41DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinkedListsExercises", "LeetCodeExercises\LinkedListsExercises.csproj", "{D4FD602F-274E-478D-9FE7-9BCEEB8B41DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackExercises", "StackExercises\StackExercises.csproj", "{777B62A9-A574-4254-B194-011D43B3454F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueExercises", "QueueExercises\QueueExercises.csproj", "{00B3F362-5923-4DD2-A86B-50898816D487}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{D4FD602F-274E-478D-9FE7-9BCEEB8B41DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4FD602F-274E-478D-9FE7-9BCEEB8B41DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4FD602F-274E-478D-9FE7-9BCEEB8B41DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{777B62A9-A574-4254-B194-011D43B3454F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{777B62A9-A574-4254-B194-011D43B3454F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{777B62A9-A574-4254-B194-011D43B3454F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{777B62A9-A574-4254-B194-011D43B3454F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00B3F362-5923-4DD2-A86B-50898816D487}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00B3F362-5923-4DD2-A86B-50898816D487}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00B3F362-5923-4DD2-A86B-50898816D487}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00B3F362-5923-4DD2-A86B-50898816D487}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
