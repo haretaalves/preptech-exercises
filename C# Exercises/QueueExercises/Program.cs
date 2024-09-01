@@ -18,6 +18,11 @@ class Program
         var timeNeededToBuyTickets = new TimeNeededToBuyTickets();
         timeNeededToBuyTickets.Main();
 
+        Console.WriteLine("-------");
+
+        var numberOfStudentsUnableToEat = new NumberOfStudentsUnableToEat();
+        numberOfStudentsUnableToEat.Main();
+
     }
 
 }
