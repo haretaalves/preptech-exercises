@@ -1,6 +1,6 @@
 ﻿namespace LinkedListsExercises
 {
-    class Node
+    public class Node
     {
         public int data;
         public Node next;
@@ -12,7 +12,7 @@
         }
     }
 
-    class SingleLinkedList
+    public class SingleLinkedList
     {
         public Node head;
 
